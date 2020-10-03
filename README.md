@@ -1,8 +1,8 @@
 # Audio
 
 
-# ALSA ....https://github.com/alsa-project
+# ALSA https://github.com/alsa-project
 
-# PlusAudio
+# PulseAudio https://www.freedesktop.org/wiki/Software/PulseAudio/
 
-# Jack ....https://github.com/jackaudio
+# Jack https://github.com/jackaudio
